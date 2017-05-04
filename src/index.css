@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+button {
+	height: 20vh;
+	width: 33.3333%;
+}
+
+.tictactoe {
+	width: 40vw;
+	position: relative;
+	left: 30vw;
+	top: 10vh;
+}
